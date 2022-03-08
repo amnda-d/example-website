@@ -6,20 +6,7 @@ title: "Linguist Q. Person"
 
 -----
 
-<img src="cat.jpg" width="300" />
-
-## Contact
-
-123 University St.<br/>
-Montreal, QC<br/>
-[email@fakeemail.com](mailto:email@fakeemail.com)
-
-
-## About
-
-I'm a linguist and a person.
-
-## Publications
+# Publications
 
 **Linguist Person.** [How to do linguistics](https://googlethatforyou.com?q=linguistics). *A Cool Conference 2022*.
 
