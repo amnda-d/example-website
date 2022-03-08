@@ -2,7 +2,7 @@
 title: "Linguist Q. Person"
 ---
 
-# <button>[Home](example.md)</button> <button>[About Me](about.md)</button> <button>[Publications](publications.md)</button>
+<button>[Home](index.md)</button> <button>[About Me](about.md)</button> <button>[Publications](publications.md)</button> <button>[CV](examplecv.pdf)</button>
 
 -----
 
